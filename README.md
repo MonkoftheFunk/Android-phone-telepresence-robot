@@ -1,2 +1,2 @@
 # HomeRobot
-use phone as  robot brain
+use android phone as robot brain
